@@ -1,5 +1,5 @@
 body {text-align: center; background-color:#070512; color: #f8f7fc; margin: 0; font-size: 22px; font-family: 'Open Sans Condensed', sans-serif;}
 a {color: #4564ac; font-size: 22px; text-decoration: none;}
 h1 {font-family: 'Amatic SC', cursive;}
-code {background-color:#2F4073; font-size: 22px; text-align: left; padding: 2px;}
+code {background-color:#2F4073; font-size: 22px; text-align: left; padding-left: 2px; padding-right: 2px;}
 hr {color: #1c1c1f;}
