@@ -2,4 +2,4 @@ body {text-align: center; background-color:#070512; color: #f8f7fc; margin: 0; f
 a {color: #4564ac; font-size: 22px; text-decoration: none;}
 h1 {font-family: 'Amatic SC', cursive;}
 code {font-size: 22px;}
-.hello {background-color: #343d46;}
+.hello {border-color: #343d46; border-style: solid; }
