@@ -3,3 +3,4 @@ a {color: #4564ac; font-size: 22px; text-decoration: none;}
 h1 {font-family: 'Amatic SC', cursive;}
 code {font-size: 22px;}
 .hello {border-color: #343d46; border-style: solid; }
+.float {float: left;}
